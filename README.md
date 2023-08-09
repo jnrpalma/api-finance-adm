@@ -1,4 +1,4 @@
-# Api desenvolvida para o curso de Angular 15 na prática
+# Api desenvolvida para o projeto finance-adm
 
 **Pré requisitos**
 - Nodejs versão (18.12.1).
@@ -36,9 +36,6 @@ a api estará disponivel no endereço:
  localhost:3000
 ```
 
-Para ver a api ao vivo clique [aqui](https://api-curso-angular15-na-pratica.herokuapp.com/)
-
-
 ### Tecnologias utilizadas
 
 - Express.
@@ -46,5 +43,3 @@ Para ver a api ao vivo clique [aqui](https://api-curso-angular15-na-pratica.hero
 - Mongoose.
 - Bcrypt.
 - Jsonwebtoken.
-
-Bons estudos!
